@@ -1,1 +1,1 @@
-![Circuit](/images/ "Optional Title")
+![Circuit](/images/protoboard.png "Optional Title")
